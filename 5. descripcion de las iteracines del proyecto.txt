@@ -1,0 +1,57 @@
+Resumen breve del proyecto
+El estudiante va a construir una landing page one-page responsive para un portafolio profesional de Java Full Stack Developer, con secciones reales de presentación, experiencia, stack técnico, proyectos, GitHub y contacto.
+
+En la Iteración 1 aprenderá a crear la estructura semántica del sitio y una maquetación base responsive con HTML y CSS.
+
+En la Iteración 2 completará el contenido visual, tarjetas, jerarquía tipográfica y estilos para que el sitio luzca profesional.
+
+En la Iteración 3 añadirá interactividad con JavaScript vanilla: menú móvil, scroll suave, navegación activa, renderizado dinámico y validación básica del formulario.
+
+En la Iteración 4 pulirá accesibilidad, responsive, microinteracciones y consistencia visual final para dejar el portafolio listo como entrega académica funcional.
+
+Plan por iteraciones
+Iteración 1: estructura base
+HTML semántico completo con header, nav, main, section y footer.
+
+Navegación principal con anclas a secciones.
+
+Hero inicial con título, presentación y CTA.
+
+Estructura básica de todas las secciones, aunque algunas tengan contenido provisional.
+
+Estilos globales iniciales: colores, tipografía, contenedor y layout base responsive con Flexbox/Grid.
+
+Iteración 2: contenido y diseño visual
+Completar contenido de Sobre mí, Experiencia, Skills, Proyectos y Footer.
+
+Añadir tarjetas visuales para experiencia y proyectos.
+
+Mejorar colores, espaciado, tipografía y consistencia visual general.
+
+Agregar placeholders o imágenes editables.
+
+Incorporar estados hover simples y botones más refinados.
+
+Iteración 3: interactividad con JavaScript
+Menú hamburguesa responsive con addEventListener.
+
+Scroll suave a secciones.
+
+Resaltado del link activo según la sección visible usando lógica simple de scroll.
+
+Render dinámico de proyectos desde un array de objetos en JavaScript.
+
+Validación básica del formulario con mensajes simples.
+
+Reveal animation con IntersectionObserver de forma sencilla y comentada.
+
+Iteración 4: pulido final
+Mejoras de responsive para tablet y móvil.
+
+Ajustes de accesibilidad básica, como aria-label, foco visible y estructura clara.
+
+Microinteracciones suaves en botones y tarjetas.
+
+Refinamiento visual final.
+
+Opción simple de toggle claro/oscuro si el docente o estudiante quiere ampliar el ejercicio.
