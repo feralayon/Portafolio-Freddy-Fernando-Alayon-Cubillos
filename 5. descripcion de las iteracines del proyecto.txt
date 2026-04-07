@@ -55,3 +55,27 @@ Microinteracciones suaves en botones y tarjetas.
 Refinamiento visual final.
 
 Opción simple de toggle claro/oscuro si el docente o estudiante quiere ampliar el ejercicio.
+
+
+
+Marcado pedagógico dentro del código
+Ya quedó incluido mediante comentarios como:
+
+Iteración 1:
+
+Iteración 2:
+
+Iteración 3:
+
+Iteración 4:
+
+Eso permite que cada entrega parcial pueda evaluarse de forma independiente, porque la base ya está pensada para crecer sin rehacer la estructura. Este enfoque modular, con archivos separados y una progresión clara, facilita el aprendizaje de maquetación, estilos e interactividad vanilla JS paso a paso.
+
+Cómo usarlo en clase
+Entrega 1: trabajar solo index.html y la parte inicial de style.css.
+
+Entrega 2: completar contenido y componentes visuales.
+
+Entrega 3: activar script.js completo.
+
+Entrega 4: pulir responsive, accesibilidad y tema
